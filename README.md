@@ -16,7 +16,6 @@ Examples of goals:
 ##  Contents
 - **Training Files/** – Data files or resources used for training your NLP models.
 - **NLP Assignment (Machine Learning).ipynb** – Jupyter notebook showcasing your experimentation, model training, analysis, and results.
-- **NLP_Report.pdf** – A written report detailing your methodology, findings, and evaluation metrics.
 
 ---
 
